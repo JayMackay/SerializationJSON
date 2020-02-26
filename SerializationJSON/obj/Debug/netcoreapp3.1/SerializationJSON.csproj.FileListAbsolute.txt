@@ -1,0 +1,13 @@
+C:\Users\TECH-W141birm\Desktop\SerializationJSON\SerializationJSON\bin\Debug\netcoreapp3.1\SerializationJSON.exe
+C:\Users\TECH-W141birm\Desktop\SerializationJSON\SerializationJSON\obj\Debug\netcoreapp3.1\SerializationJSON.csprojAssemblyReference.cache
+C:\Users\TECH-W141birm\Desktop\SerializationJSON\SerializationJSON\obj\Debug\netcoreapp3.1\SerializationJSON.AssemblyInfoInputs.cache
+C:\Users\TECH-W141birm\Desktop\SerializationJSON\SerializationJSON\obj\Debug\netcoreapp3.1\SerializationJSON.AssemblyInfo.cs
+C:\Users\TECH-W141birm\Desktop\SerializationJSON\SerializationJSON\bin\Debug\netcoreapp3.1\SerializationJSON.deps.json
+C:\Users\TECH-W141birm\Desktop\SerializationJSON\SerializationJSON\bin\Debug\netcoreapp3.1\SerializationJSON.runtimeconfig.json
+C:\Users\TECH-W141birm\Desktop\SerializationJSON\SerializationJSON\bin\Debug\netcoreapp3.1\SerializationJSON.runtimeconfig.dev.json
+C:\Users\TECH-W141birm\Desktop\SerializationJSON\SerializationJSON\bin\Debug\netcoreapp3.1\SerializationJSON.dll
+C:\Users\TECH-W141birm\Desktop\SerializationJSON\SerializationJSON\bin\Debug\netcoreapp3.1\SerializationJSON.pdb
+C:\Users\TECH-W141birm\Desktop\SerializationJSON\SerializationJSON\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\TECH-W141birm\Desktop\SerializationJSON\SerializationJSON\obj\Debug\netcoreapp3.1\SerializationJSON.csproj.CopyComplete
+C:\Users\TECH-W141birm\Desktop\SerializationJSON\SerializationJSON\obj\Debug\netcoreapp3.1\SerializationJSON.dll
+C:\Users\TECH-W141birm\Desktop\SerializationJSON\SerializationJSON\obj\Debug\netcoreapp3.1\SerializationJSON.pdb
